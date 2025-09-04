@@ -1,0 +1,34 @@
+baseURL = "https://example.com/" # IMPORTANT: We will change this later
+languageCode = "en-us"
+title = "Alejandro Garcia Soria | Professional Portfolio" # Change this to your name and title
+theme = "PaperMod"
+
+[params]
+# This is a good default profile mode for a landing page
+profileMode.enabled = true
+profileMode.title = "Alejandro Garcia Soria" # Change to your name
+profileMode.subtitle = "Theoretical Physicist | Educator | Lifelong Learner" # Change to your subtitle
+profileMode.imageUrl = "" # We will add an image later
+profileMode.imageWidth = 120
+profileMode.imageHeight = 120
+profileMode.buttons = [
+    { name = "Blog", url = "/posts" },
+    { name = "About", url = "/about" }
+]
+
+[menu]
+# This creates the menu at the top of the page
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 10
+
+[[menu.main]]
+name = "Blog"
+url = "/posts/"
+weight = 20
+
+[[menu.main]]
+name = "CV"
+url = "/cv/" # We'll create a page for your CV
+weight = 30

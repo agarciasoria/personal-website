@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Alejandro Garcia Soria | Professional Portfolio</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Alejandro Garcia Soria | Professional Portfolio</description>
+    <generator>Hugo -- 0.149.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Sep 2025 20:24:04 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 04 Sep 2025 20:24:04 +0200</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;My name is Alejandro García, and I am a physicist and educator with a passion for understanding the fundamental laws of the universe and sharing that knowledge with others.&lt;/p&gt;
+&lt;h2 id=&#34;my-journey&#34;&gt;My Journey&lt;/h2&gt;
+&lt;p&gt;My academic path began with bachelor&amp;rsquo;s degrees in both Mathematics and Physics, where I developed a strong foundation in analytical and quantitative reasoning. This dual focus allowed me to appreciate both the abstract beauty of mathematical structures and their concrete applications in the physical world.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CV</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Thu, 04 Sep 2025 20:24:04 +0200</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;p&gt;This page contains my curriculum vitae, detailing my academic background, publications, and professional experience.&lt;/p&gt;
+&lt;p&gt;You can download the full PDF version by clicking the link below.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/your-cv-filename.pdf&#34;&gt;Download CV (PDF)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
