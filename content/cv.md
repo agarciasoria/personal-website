@@ -7,4 +7,4 @@ This page contains my curriculum vitae, detailing my academic background, public
 
 You can download the full PDF version by clicking the link below.
 
-**[Download CV (PDF)](/your-cv-filename.pdf)**
+**[Download CV (PDF)](/CV_maths_and_physics.pdf)**
