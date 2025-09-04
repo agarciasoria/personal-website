@@ -3,7 +3,7 @@ title: "About"
 date: 2025-09-04T20:24:04+02:00
 draft: false
 ---
-My name is Alejandro García, and I am a physicist and educator with a passion for understanding the fundamental laws of the universe and sharing that knowledge with others.
+My name is Alejandro, and I am a physicist and educator with a passion for understanding the fundamental laws of the universe and sharing that knowledge with others.
 
 ## My Journey
 
