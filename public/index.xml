@@ -18,13 +18,22 @@
 &lt;p&gt;My academic path began with bachelor&amp;rsquo;s degrees in both Mathematics and Physics, where I developed a strong foundation in analytical and quantitative reasoning. This dual focus allowed me to appreciate both the abstract beauty of mathematical structures and their concrete applications in the physical world.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>CV</title>
-      <link>http://localhost:1313/cv/</link>
+      <title>Documents &amp; Publications</title>
+      <link>http://localhost:1313/documents/</link>
       <pubDate>Thu, 04 Sep 2025 20:24:04 +0200</pubDate>
-      <guid>http://localhost:1313/cv/</guid>
-      <description>&lt;p&gt;This page contains my curriculum vitae, detailing my academic background, publications, and professional experience.&lt;/p&gt;
-&lt;p&gt;You can download the full PDF version by clicking the link below.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/CV_maths_and_physics.pdf&#34;&gt;Download CV (PDF)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/documents/</guid>
+      <description>&lt;p&gt;On this page, you can find my key academic and professional documents.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;curriculum-vitae&#34;&gt;Curriculum Vitae&lt;/h2&gt;
+&lt;p&gt;My CV provides a comprehensive overview of my academic background, professional experience, and publications.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/CV_maths_and_physics.pdf&#34;&gt;Download CV (PDF)&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;masters-thesis&#34;&gt;Master&amp;rsquo;s Thesis&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; &lt;em&gt;[Higher Derivative Gravity and Holographic QCD]&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/note_for_Alejandro.pdf&#34;&gt;Download Thesis (PDF)&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

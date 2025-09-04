@@ -13,7 +13,8 @@ profileMode.imageWidth = 120
 profileMode.imageHeight = 120
 profileMode.buttons = [
     { name = "Blog", url = "/posts" },
-    { name = "About", url = "/about" }
+    { name = "About", url = "/about" },
+    { name = "Documents", url = "/documents" }
 ]
 
 [menu]
@@ -29,6 +30,6 @@ url = "/posts/"
 weight = 20
 
 [[menu.main]]
-name = "CV"
-url = "/cv/" # We'll create a page for your CV
+name = "Documents"
+url = "/documents/"
 weight = 30
