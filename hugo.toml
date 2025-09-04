@@ -1,4 +1,4 @@
-baseURL = "https://example.com/" # IMPORTANT: We will change this later
+baseURL = "https://agarciasoria.netlify.app" # IMPORTANT: We will change this later
 languageCode = "en-us"
 title = "Alejandro Garcia Soria | Professional Portfolio" # Change this to your name and title
 theme = "PaperMod"
