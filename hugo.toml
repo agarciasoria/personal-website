@@ -1,35 +1,83 @@
-baseURL = "https://agarciasoria.netlify.app" # IMPORTANT: We will change this later
-languageCode = "en-us"
-title = "Alejandro Garcia Soria | Professional Portfolio" # Change this to your name and title
+# This is the global base URL
+baseURL = "https://agarciasoria.netlify.app/"
+defaultContentLanguage = "en"
 theme = "PaperMod"
 
+# Global parameters that apply to both languages
 [params]
-# This is a good default profile mode for a landing page
-profileMode.enabled = true
-profileMode.title = "Alejandro Garcia Soria" # Change to your name
-profileMode.subtitle = "Theoretical Physicist | Educator | Lifelong Learner" # Change to your subtitle
-profileMode.imageUrl = "" # We will add an image later
-profileMode.imageWidth = 120
-profileMode.imageHeight = 120
-profileMode.buttons = [
-    { name = "Blog", url = "/posts" },
-    { name = "About", url = "/about" },
-    { name = "Documents", url = "/documents" }
-]
+    profileMode.enabled = true
+    profileMode.imageWidth = 120
+    profileMode.imageHeight = 120
+    showLanguageSwitcher = true
 
-[menu]
-# This creates the menu at the top of the page
-[[menu.main]]
-name = "About"
-url = "/about/"
-weight = 10
+# ==================================
+# English Language Configuration
+# ==================================
+[languages.en]
+    languageName = "English"
+    languageCode = "en-us"
+    weight = 1
+    title = "Alejandro Garcia Soria | Professional Portfolio"
 
-[[menu.main]]
-name = "Blog"
-url = "/posts/"
-weight = 20
+    [languages.en.params.profileMode]
+        title = "Alejandro Garcia Soria"
+        subtitle = "Theoretical Physicist | Educator | Lifelong Learner"
+        imageUrl = "" 
+        imageLink = "/about/"
+        buttons = [
+            { name = "About", url = "about/" },
+            { name = "Documents", url = "documents/" }
+        ]
+    
+    # English Menu
+    [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        pageRef = "about" # Changed from url
+        weight = 10
+  #  [[languages.en.menu.main]]
+  #      identifier = "blog"
+  #      name = "Blog"
+  #      pageRef = "posts" # Changed from url
+  #      weight = 20
+    [[languages.en.menu.main]]
+        identifier = "documents"
+        name = "Documents"
+        pageRef = "documents" # Changed from url
+        weight = 30
 
-[[menu.main]]
-name = "Documents"
-url = "/documents/"
-weight = 30
+# ==================================
+# Spanish Language Configuration
+# ==================================
+[languages.es]
+    languageName = "Español"
+    languageCode = "es"
+    weight = 2
+    title = "Alejandro Garcia Soria | Portfolio Profesional"
+
+    [languages.es.params.profileMode]
+        title = "Alejandro Garcia Soria"
+        subtitle = "Físico Teórico | Educador | Aprendiz Permanente"
+        imageUrl = ""
+        imageLink = "/about/"
+        buttons = [
+            { name = "Sobre mí", url = "about/" },
+            { name = "Documentos", url = "documents/" }
+        ]
+
+    # Spanish Menu
+    [[languages.es.menu.main]]
+        identifier = "about"
+        name = "Sobre mí"
+        pageRef = "about" # Changed from url
+        weight = 10
+#    [[languages.es.menu.main]]
+#        identifier = "blog"
+#        name = "Blog"
+#        pageRef = "posts" # Changed from url
+#        weight = 20
+    [[languages.es.menu.main]]
+        identifier = "documents"
+        name = "Documentos"
+        pageRef = "documents" # Changed from url
+        weight = 30
