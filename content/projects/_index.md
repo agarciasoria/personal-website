@@ -1,5 +1,6 @@
 ---
 title: "Projects"
+layout: "list"
 date: 2025-09-06T20:24:04+02:00
 draft: false
 translationKey: "projectsPage" 

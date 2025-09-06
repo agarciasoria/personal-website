@@ -36,5 +36,12 @@
 &lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/Thesis_Alejandro_Garcia.pdf&#34;&gt;Download Thesis (PDF)&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
+    <item>
+      <title>Quantum Mechanics Visualizer</title>
+      <link>http://localhost:1313/projects/quantum_visualizer/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quantum_visualizer/</guid>
+      <description>Interactive visualizations of fundamental quantum mechanical systems</description>
+    </item>
   </channel>
 </rss>

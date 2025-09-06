@@ -6,6 +6,42 @@
     <description>Recent content in Tags on Alejandro Garcia Soria | Portfolio Profesional</description>
     <generator>Hugo -- 0.149.1</generator>
     <language>es</language>
+    <lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Educación</title>
+      <link>http://localhost:1313/es/tags/educaci%C3%B3n/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/tags/educaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Física</title>
+      <link>http://localhost:1313/es/tags/f%C3%ADsica/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/tags/f%C3%ADsica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mecánica Cuántica</title>
+      <link>http://localhost:1313/es/tags/mec%C3%A1nica-cu%C3%A1ntica/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/tags/mec%C3%A1nica-cu%C3%A1ntica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Streamlit</title>
+      <link>http://localhost:1313/es/tags/streamlit/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/tags/streamlit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visualización</title>
+      <link>http://localhost:1313/es/tags/visualizaci%C3%B3n/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/tags/visualizaci%C3%B3n/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -20,14 +20,15 @@ theme = "PaperMod"
     title = "Alejandro Garcia Soria | Professional Portfolio"
 
     [languages.en.params.profileMode]
-        title = "Alejandro Garcia Soria"
-        subtitle = "Theoretical Physicist | Educator | Lifelong Learner"
-        imageUrl = "" 
-        imageLink = "/about/"
-        buttons = [
-            { name = "About", url = "about/" },
-            { name = "Documents", url = "documents/" }
-        ]
+    title = "Alejandro Garcia Soria"
+    subtitle = "Theoretical Physicist | Educator | Lifelong Learner"
+    imageUrl = "" 
+    imageLink = "/about/"
+    buttons = [
+        { name = "About", url = "about/" },
+        { name = "Projects", url = "projects/" },    # ADD THIS LINE
+        { name = "Documents", url = "documents/" }
+    ]
     
     # English Menu
     [[languages.en.menu.main]]
@@ -35,11 +36,11 @@ theme = "PaperMod"
         name = "About"
         pageRef = "about" # Changed from url
         weight = 10
-  #  [[languages.en.menu.main]]
-  #      identifier = "blog"
-  #      name = "Blog"
-  #      pageRef = "posts" # Changed from url
-  #      weight = 20
+    [[languages.en.menu.main]]
+        identifier = "projects"
+        name = "Projects"
+        pageRef = "projects"
+        weight = 20
     [[languages.en.menu.main]]
         identifier = "documents"
         name = "Documents"
@@ -56,14 +57,15 @@ theme = "PaperMod"
     title = "Alejandro Garcia Soria | Portfolio Profesional"
 
     [languages.es.params.profileMode]
-        title = "Alejandro Garcia Soria"
-        subtitle = "Físico Teórico | Educador | Aprendiz Permanente"
-        imageUrl = ""
-        imageLink = "/about/"
-        buttons = [
-            { name = "Sobre mí", url = "about/" },
-            { name = "Documentos", url = "documents/" }
-        ]
+    title = "Alejandro Garcia Soria"
+    subtitle = "Físico Teórico | Educador | Aprendiz Permanente"
+    imageUrl = ""
+    imageLink = "/about/"
+    buttons = [
+        { name = "Sobre mí", url = "about/" },
+        { name = "Proyectos", url = "projects/" },   # ADD THIS LINE
+        { name = "Documentos", url = "documents/" }
+    ]
 
     # Spanish Menu
     [[languages.es.menu.main]]
@@ -71,11 +73,11 @@ theme = "PaperMod"
         name = "Sobre mí"
         pageRef = "about" # Changed from url
         weight = 10
-#    [[languages.es.menu.main]]
-#        identifier = "blog"
-#        name = "Blog"
-#        pageRef = "posts" # Changed from url
-#        weight = 20
+    [[languages.es.menu.main]]
+        identifier = "projects"
+        name = "Proyectos"
+        pageRef = "projects"
+        weight = 20
     [[languages.es.menu.main]]
         identifier = "documents"
         name = "Documentos"
