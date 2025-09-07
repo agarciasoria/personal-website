@@ -1,6 +1,6 @@
 ---
 title: "Connect 4 Multiplayer Game"
-date: 2024-01-10
+date: 2025-09-07
 draft: false
 description: "A customizable Connect 4 game supporting 2-4 players with variable board sizes"
 tags: ["game development", "flask", "python", "javascript", "multiplayer"]
@@ -28,4 +28,4 @@ A modern web-based implementation of the classic Connect 4 game with enhanced fe
 
 ## Play the Game
 
-🎮 **[Play Connect 4 Online](https://connect4-alejandro.onrender.com/)**
+🎮 **[Play Connect 4 Online](https://connect4-game-alejandro.onrender.com)**

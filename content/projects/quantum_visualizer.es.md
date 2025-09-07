@@ -1,6 +1,6 @@
 ---
 title: "Visualizador de Mecánica Cuántica"
-date: 2024-01-10
+date: 2024-09-06
 draft: false
 description: "Visualizaciones interactivas de sistemas fundamentales de mecánica cuántica"
 tags: ["mecánica cuántica", "visualización", "streamlit", "física", "educación"]

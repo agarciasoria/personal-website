@@ -1,6 +1,6 @@
 ---
 title: "Quantum Mechanics Visualizer"
-date: 2024-01-10
+date: 2024-09-06
 draft: false
 description: "Interactive visualizations of fundamental quantum mechanical systems"
 tags: ["quantum mechanics", "visualization", "streamlit", "physics", "education"]

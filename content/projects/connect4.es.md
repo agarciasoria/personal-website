@@ -1,6 +1,6 @@
 ---
 title: "Juego Connect 4 Multijugador"
-date: 2024-01-10
+date: 2025-09-07
 draft: false
 description: "Un juego Connect 4 personalizable que soporta 2-4 jugadores con tamaños de tablero variables"
 tags: ["desarrollo de juegos", "flask", "python", "javascript", "multijugador"]
@@ -28,4 +28,4 @@ Una implementación web moderna del clásico juego Connect 4 con característica
 
 ## Juega al Juego
 
-🎮 **[Jugar Connect 4 en Línea](https://connect4-alejandro.onrender.com/)**
+🎮 **[Jugar Connect 4 en Línea](https://connect4-game-alejandro.onrender.com)**
