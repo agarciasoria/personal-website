@@ -23,11 +23,11 @@ theme = "PaperMod"
     title = "Alejandro Garcia Soria"
     subtitle = "Theoretical Physicist | Educator | Lifelong Learner"
     imageUrl = "" 
-    imageLink = "/about/"
+    imageLink = "about/"
     buttons = [
-        { name = "About", pageRef = "about" },
-        { name = "Projects", pageRef = "projects" },
-        { name = "Documents", pageRef = "documents" }
+        { name = "About", url = "about/" },
+        { name = "Projects", url = "projects/" },
+        { name = "Documents", url = "documents/" }
     ]
 
     
@@ -60,11 +60,11 @@ theme = "PaperMod"
     title = "Alejandro Garcia Soria"
     subtitle = "Físico Teórico | Educador | Aprendiz Permanente"
     imageUrl = ""
-    imageLink = "/about/"
+    imageLink = "about/"
     buttons = [
-        { name = "Sobre mí", pageRef = "about" },
-        { name = "Proyectos", pageRef = "projects" },
-        { name = "Documentos", pageRef = "documents" }
+        { name = "Sobre mí", url = "about/" },
+        { name = "Proyectos", url = "projects/" },
+        { name = "Documentos", url = "documents/" }
     ]
 
     # Spanish Menu
