@@ -67,19 +67,20 @@ theme = "PaperMod"
         { name = "Documentos", url = "documents/" }
     ]
 
+
     # Spanish Menu
     [[languages.es.menu.main]]
         identifier = "about"
         name = "Sobre mí"
-        url = "/personal-website/es/about/"
+        url = "about/"
         weight = 10
     [[languages.es.menu.main]]
         identifier = "projects"
         name = "Proyectos"
-        url = "/personal-website/es/projects/"
+        url = "projects/"
         weight = 20
     [[languages.es.menu.main]]
         identifier = "documents"
         name = "Documentos"
-        url = "/personal-website/es/documents/"
+        url = "documents/"
         weight = 30
