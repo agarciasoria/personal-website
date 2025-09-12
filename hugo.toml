@@ -1,5 +1,5 @@
 # This is the global base URL
-baseURL = "https://agarciasoria.netlify.app/"
+baseURL = "https://agarciasoria.github.io/personal-website/"
 defaultContentLanguage = "en"
 theme = "PaperMod"
 
