@@ -25,16 +25,17 @@ theme = "PaperMod"
     imageUrl = "" 
     imageLink = "/about/"
     buttons = [
-        { name = "About", url = "about/" },
-        { name = "Projects", url = "projects/" },    # ADD THIS LINE
-        { name = "Documents", url = "documents/" }
+        { name = "About", pageRef = "about" },
+        { name = "Projects", pageRef = "projects" },
+        { name = "Documents", pageRef = "documents" }
     ]
+
     
     # English Menu
     [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
-        pageRef = "about" # Changed from url
+        pageRef = "about"
         weight = 10
     [[languages.en.menu.main]]
         identifier = "projects"
@@ -44,9 +45,8 @@ theme = "PaperMod"
     [[languages.en.menu.main]]
         identifier = "documents"
         name = "Documents"
-        pageRef = "documents" # Changed from url
+        pageRef = "documents"
         weight = 30
-
 # ==================================
 # Spanish Language Configuration
 # ==================================
@@ -62,16 +62,16 @@ theme = "PaperMod"
     imageUrl = ""
     imageLink = "/about/"
     buttons = [
-        { name = "Sobre mí", url = "about/" },
-        { name = "Proyectos", url = "projects/" },   # ADD THIS LINE
-        { name = "Documentos", url = "documents/" }
+        { name = "Sobre mí", pageRef = "about" },
+        { name = "Proyectos", pageRef = "projects" },
+        { name = "Documentos", pageRef = "documents" }
     ]
 
     # Spanish Menu
     [[languages.es.menu.main]]
         identifier = "about"
         name = "Sobre mí"
-        pageRef = "about" # Changed from url
+        pageRef = "about"
         weight = 10
     [[languages.es.menu.main]]
         identifier = "projects"
@@ -81,5 +81,5 @@ theme = "PaperMod"
     [[languages.es.menu.main]]
         identifier = "documents"
         name = "Documentos"
-        pageRef = "documents" # Changed from url
+        pageRef = "documents"
         weight = 30
