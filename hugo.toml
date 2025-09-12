@@ -71,15 +71,15 @@ theme = "PaperMod"
     [[languages.es.menu.main]]
         identifier = "about"
         name = "Sobre mí"
-        url = "/es/about/"
+        url = "/personal-website/es/about/"
         weight = 10
     [[languages.es.menu.main]]
         identifier = "projects"
         name = "Proyectos"
-        url = "/es/projects/"
+        url = "/personal-website/es/projects/"
         weight = 20
     [[languages.es.menu.main]]
         identifier = "documents"
         name = "Documentos"
-        url = "/es/documents/"
+        url = "/personal-website/es/documents/"
         weight = 30
