@@ -13,8 +13,8 @@ En esta página puede encontrar mis principales documentos académicos y profesi
 
 Mis CVs ofrecen un resumen completo de mi trayectoria académica, experiencia profesional y publicaciones.
 
-* **[Descargar CV científico (PDF)](/personal-website//CV_Garcia.pdf)**
-* **[Descargar CV educativo (PDF)](/personal-website//CV_Alejandro_Garcia_profesor.pdf)**
+* **[Descargar CV científico (PDF)](/personal-website/CV_Garcia.pdf)**
+* **[Descargar CV educativo (PDF)](/personal-website/CV_Alejandro_Garcia_profesor.pdf)**
 
 ---
 
@@ -22,6 +22,6 @@ Mis CVs ofrecen un resumen completo de mi trayectoria académica, experiencia pr
 
 **Título:** *Higher Derivative Gravity and Holographic QCD*
 
-* **[Descargar Tesis (PDF)](/personal-website//Thesis_Alejandro_Garcia.pdf)**
+* **[Descargar Tesis (PDF)](/personal-website/Thesis_Alejandro_Garcia.pdf)**
 
 
