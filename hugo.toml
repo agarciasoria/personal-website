@@ -1,5 +1,6 @@
 # This is the global base URL
 baseURL = "https://agarciasoria.github.io/personal-website/"
+enableInlineShortcodes = true
 defaultContentLanguage = "en"
 theme = "PaperMod"
 

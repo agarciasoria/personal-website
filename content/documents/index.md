@@ -13,8 +13,8 @@ On this page, you can find my key academic and professional documents.
 
 My CVs provide a comprehensive overview of my academic background, professional experience, and publications.
 
-* **[Download CV scientific (PDF)]({{< relref "/documents/CV_Alejandro_Garcia_maths_and_physics.pdf" >}})**
-* **[Download CV education (PDF)]({{< relref "/documents/CV_Alejandro_Garcia_teaching.pdf" >}})**
+* **[Download CV scientific (PDF)]({{ "documents/CV_Alejandro_Garcia_maths_and_physics.pdf" | relURL }})**
+* **[Download CV education (PDF)]({{ "documents/CV_Alejandro_Garcia_teaching.pdf" | relURL }})**
 
 ---
 
@@ -22,5 +22,5 @@ My CVs provide a comprehensive overview of my academic background, professional 
 
 **Title:** *Higher Derivative Gravity and Holographic QCD*
 
-* **[Download Thesis (PDF)]({{< relref "/documents/Thesis_Alejandro_Garcia.pdf" >}})**
+* **[Download Thesis (PDF)]({{ "documents/Thesis_Alejandro_Garcia.pdf" | relURL }})**
 
