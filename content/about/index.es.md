@@ -18,7 +18,7 @@ Más allá de la investigación, estoy profundamente comprometido con la educaci
 
 ## Publicaciones e Investigación
 
-Puede encontrar una lista de mis publicaciones y proyectos de investigación clave en la página de mi CV.
+Puede encontrar una lista de mis publicaciones y proyectos de investigación clave en la página de mis Documentos.
 
 ## Contacto
 

@@ -18,7 +18,7 @@ Beyond research, I am deeply committed to education. I completed a Master's in E
 
 ## Publications & Research
 
-You can find a list of my key publications and research projects on my CV page.
+You can find a list of my key publications and research projects on my Documents page.
 
 ## Contact
 
