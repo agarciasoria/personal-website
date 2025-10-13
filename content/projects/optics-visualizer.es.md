@@ -6,7 +6,7 @@ tags: ["física", "óptica", "fotografía", "difracción", "lentes", "visualizac
 external_link: "https://optics-visualizer.streamlit.app/"
 ---
 
-# 🔍 Simulador de Óptica y Fotografía
+# 🔍 Simulador de Óptica y Fotografía (en español)
 
 ## Explora el Fascinante Mundo de la Luz y las Imágenes
 

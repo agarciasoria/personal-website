@@ -6,7 +6,7 @@ tags: ["physics", "optics", "photography", "diffraction", "lenses", "visualizati
 external_link: "https://optics-visualizer.streamlit.app/"
 ---
 
-# 🔍 Optics & Photography Simulator
+# 🔍 Optics & Photography Simulator (in Spanish)
 
 ## Explore the Fascinating World of Light and Images
 
