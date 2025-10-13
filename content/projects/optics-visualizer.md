@@ -3,7 +3,7 @@ title: "Optics & Photography Simulator"
 date: 2025-10-13
 description: "Interactive tool to explore geometric optics, image formation, optical aberrations, and photography principles."
 tags: ["physics", "optics", "photography", "diffraction", "lenses", "visualization", "streamlit", "python"]
-url: "https://optics-visualizer.streamlit.app/"
+external_link: "https://optics-visualizer.streamlit.app/"
 ---
 
 # 🔍 Optics & Photography Simulator

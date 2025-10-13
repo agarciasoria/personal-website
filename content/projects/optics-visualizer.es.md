@@ -3,7 +3,7 @@ title: "Simulador de Óptica y Fotografía"
 date: 2025-10-13
 description: "Herramienta interactiva para explorar óptica geométrica, formación de imágenes, aberraciones ópticas y principios de fotografía."
 tags: ["física", "óptica", "fotografía", "difracción", "lentes", "visualización", "streamlit", "python"]
-url: "https://optics-visualizer.streamlit.app/"
+external_link: "https://optics-visualizer.streamlit.app/"
 ---
 
 # 🔍 Simulador de Óptica y Fotografía
