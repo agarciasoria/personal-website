@@ -16,7 +16,6 @@ Esta aplicación proporciona **visualizaciones interactivas** de conceptos funda
 - 🏋️ **Péndulo Doble**: Experimenta la dependencia sensible de las condiciones iniciales
 - 🌀 **Atractor de Lorenz**: El efecto mariposa en acción
 - 🌿 **Diagramas de Bifurcación**: Cómo los sistemas transicionan del orden al caos
-- 📈 **Exponentes de Lyapunov**: Cuantificando el caos matemáticamente
 - ✨ **Explorador de Hopf**: Dinámicas avanzadas del nacimiento de oscilaciones a través de bifurcaciones
 
 Cada visualización está diseñada para ser **interactiva y educativa**, permitiéndote ajustar parámetros y ver inmediatamente cómo responde el sistema. No se requiere conocimiento avanzado de matemáticas — ¡solo curiosidad!

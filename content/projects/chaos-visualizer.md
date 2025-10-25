@@ -16,7 +16,6 @@ This application provides **interactive visualizations** of fundamental concepts
 - 🏋️ **Double Pendulum**: Experience sensitive dependence on initial conditions
 - 🌀 **Lorenz Attractor**: The butterfly effect in action
 - 🌿 **Bifurcation Diagrams**: How systems transition from order to chaos
-- 📈 **Lyapunov Exponents**: Quantifying chaos mathematically
 - ✨ **Hopf Explorer**: Advanced dynamics of oscillation birth through bifurcations
 
 Each visualization is designed to be **interactive and educational**, allowing you to adjust parameters and immediately see how the system responds. No advanced mathematics knowledge required — just curiosity!
