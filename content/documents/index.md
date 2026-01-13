@@ -13,7 +13,7 @@ On this page, you can find my key academic and professional documents.
 
 My CVs provide a comprehensive overview of my academic background, professional experience, and publications.
 
-* **[Download CV scientific (PDF)](/personal-website/CV_Alejandro_Garcia_maths_and_physics.pdf)**
+* **[Download CV scientific (PDF)](/personal-website/CV_Alejandro_Garcia.pdf)**
 * **[Download CV education (PDF)](/personal-website/CV_Alejandro_Garcia_teaching.pdf)**
 
 ---
