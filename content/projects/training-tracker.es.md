@@ -3,7 +3,7 @@ title: "Rastreador de Entrenamiento de Atletismo"
 date: 2026-05-07
 draft: false
 description: "Una aplicación web integral para que atletas de atletismo registren, sigan y analicen sus ciclos de entrenamiento, sesiones de pista y trabajo de gimnasio."
-tags:["desarrollo web", "firebase", "javascript", "atletismo", "deportes"]
+tags: ["desarrollo web", "firebase", "javascript", "atletismo", "deportes" ]
 external_link: "https://agarciasoria.github.io/training-tracker/"
 ---
 

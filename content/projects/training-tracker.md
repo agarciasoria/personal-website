@@ -3,7 +3,7 @@ title: "Track & Field Training Tracker"
 date: 2026-01-07
 draft: false
 description: "A comprehensive web application for track and field athletes to log, track, and analyze their training cycles, track sessions, and gym workouts."
-tags:["web development", "firebase", "javascript", "athletics", "sports"]
+tags: ["web development", "firebase", "javascript", "chart.js", "athletics", "sports"]
 external_link: "https://agarciasoria.github.io/training-tracker/"
 ---
 
